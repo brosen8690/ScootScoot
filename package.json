@@ -13,6 +13,7 @@
   "repository": "<fill-your-repository-here>",
   "dependencies": {
     "@nativescript/theme": "~2.3.0",
+    "nativescript-mapbox": "^5.0.1",
     "tns-core-modules": "~6.5.0"
   },
   "devDependencies": {
